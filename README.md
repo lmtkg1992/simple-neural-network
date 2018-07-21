@@ -20,6 +20,7 @@ python run.py generate
 ```
 ### 2. Training data set and predict output
 You can remove some rows in data_set.csv file and use them as testing data. The neural network will take data from data_set.csv file for training and update weight for each node.
+
 Input value testing input at function get_test_data() and run below command.
 
 ```
