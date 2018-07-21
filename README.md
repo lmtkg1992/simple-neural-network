@@ -1,6 +1,6 @@
 # Simple Neural Network
 
-This is simple neural network for predict output of the function from given training data set.This neural network consists of 3 node as input and 1 node as output. The function can be represented as
+This is simple neural network for predict output of the function from given training data set. This neural network consists of 3 node as input and 1 node as output. The function can be represented as
 
 
 ```
@@ -19,8 +19,7 @@ Edit secret function with above format at function secret_function() and generat
 python run.py generate
 ```
 ### 2. Training data set and predict output
-You can remove some rows in data_set.csv file and use them as testing data.
-
+You can remove some rows in data_set.csv file and use them as testing data. The neural network will take data from data_set.csv file for training and update weight for each node.
 Input value testing input at function get_test_data() and run below command.
 
 ```
