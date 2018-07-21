@@ -1,6 +1,6 @@
 # Simple Neural Network
 
-This is simple neural network for predict function from given training data set.
+This is simple neural network for predict output of the function from given training data set.
 
 ## How to use
 ### 1. Generate data set
